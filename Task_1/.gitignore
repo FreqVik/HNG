@@ -1,0 +1,8 @@
+Task_1/env/
+Task_1/__pycache__/
+Task_1/app/__pycache__/
+Task_1/app/database/__pycache__/
+Task_1/app/models/__pycache__/
+Task_1/app/routes/__pycache__/
+Task_1/app/schemas/__pycache__/
+Task_1/strings.db
