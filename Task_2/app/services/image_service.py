@@ -1,6 +1,7 @@
 import os
 from PIL import Image, ImageDraw, ImageFont
-from sqlmodel import Session, select, func
+from sqlmodel import Session, select
+from sqlalchemy import func
 from app.models.country import Country
 from datetime import datetime
 from app.database.db import engine
