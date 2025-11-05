@@ -9,6 +9,3 @@ const loadJoke = async () => {
 }
 
 document.getElementById("new-joke-btn").addEventListener("click", loadJoke);
-
-// Load a joke when the page loads
-window.onload = loadJoke;
